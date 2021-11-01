@@ -9,5 +9,5 @@ With this project, I wanted to develop a distributed application on Ethereum. Th
 It's necessary to install **npm package** after downloading the code. <br/>
 If you want to interact with the application, you can do so by accessing the following link:<br/>
 **https://rouletteapp-d032.web.app/**<br/>
-**You must have a metamask wallet to play and interact.**
+**You must have a metamask wallet to play and interact.** <br/>
 **Some ethers on the Koven test network**
